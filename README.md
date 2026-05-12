@@ -14,7 +14,7 @@ The final evaluation metric is **Macro-F1 score**, evaluated via a Kaggle compet
 ## 👥 Group Members
 
 - Simphiwe M Tech — Student Number: 2697002  
-- Tshepo Mnogemezulu — Student Number: 2740751  
+- Tshepo Mngomezulu — Student Number: 2740751  
 - Bohlale Mabonga - Student Number : 2693726
 
 ---
